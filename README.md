@@ -5,19 +5,16 @@ This homework planner has a built in GUI where the user can add new assignments 
 ## Installation
 
 Download the RUN ME.exe file to get if you simply want to run the program.
-Download the 
+Download the PROJECt.zip file if you would like to make changes or view the code. 
 
-## Usage
+## Instructions
 
-```python
-import foobar
+Button Functions are as follows:
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+Save File - Saves the current list of assignments
+Load File - Prints the list of assignments (with details) in the command prompt 
+Create New - Creates a new default assignment
+Save Existing - Saves existing assignment
+Delete - Deletes an assignment
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
