@@ -22,7 +22,7 @@ Save Existing - Saves existing assignment
 
 Delete - Deletes an assignment
 
-
+Days Remaining - Displays the remaining days until the assignment is due (displays 0 if <1 day)
 
 
 
