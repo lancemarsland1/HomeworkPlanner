@@ -4,7 +4,7 @@ This is a homework planner that I coded in Java for AP CSA. The program was code
 
 ## Installation
 
-Download the RUN ME.exe file to get if you simply want to run the program.
+Download the RUN ME.exe file if you simply want to run the program.
 
 Download the PROJECT.zip file if you would like to make changes or view the code. 
 
