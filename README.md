@@ -1,6 +1,6 @@
 # Info
 
-This is a homework planner that I coded in Java for AP CSA, it has a built in GUI where the user can add new assignments and edit, delete, or save them.
+This is a homework planner that I coded in Java for AP CSA. The program was coded using IntelliJ IDEA which is an IDE for java development. The program features a GUI which allows the user to easily view and edit their homework assignments. The user can also save the list of assignments they created to a text file and load this information later. 
 
 ## Installation
 
@@ -8,7 +8,7 @@ Download the RUN ME.exe file to get if you simply want to run the program.
 
 Download the PROJECt.zip file if you would like to make changes or view the code. 
 
-## Instructions
+## Usage
 
 Button Functions are as follows:
 
