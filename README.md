@@ -14,7 +14,7 @@ Button Functions are as follows:
 
 Save File - Saves the current list of assignments
 
-Load File - Prints the list of assignments (with details) in the command prompt 
+Load File - Prints the most recent saved list of assignments (with details) in the command prompt 
 
 Create New - Creates a new default assignment
 
